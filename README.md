@@ -40,7 +40,7 @@
 
 Snake-project provides a solid foundation of core gameplay mechanics, including movement, collision detection, and food placement.
 
-- ** Real-Time Interaction:** Smooth and responsive user controls
+- Real-Time Interaction: Smooth and responsive user controls
   
 ---
 
