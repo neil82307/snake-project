@@ -132,4 +132,3 @@ Snake-project is protected under the [LICENSE](https://choosealicense.com/licens
 <div align="left"><a href="#top">⬆ Return</a></div>
 
 ---
-
