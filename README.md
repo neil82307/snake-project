@@ -48,10 +48,13 @@ Snake-project provides a solid foundation of core gameplay mechanics, including 
 
 |Component|
 
-**Architecture**  | <ul><li>Uses Pygame for rendering</li> |
-**Code Quality**  | <ul><li>Clear function separation</li> |
-**Performance**   | <ul><li>Optimized rendering loop with frame rate control</li><li>Minimal resource usage, suitable for low-end      systems</li></ul> |
-**Dependencies**  | <ul><li>Python standard library</li><li>External: `pygame`, `license`</li></ul> |
+**Architecture**  | <ul><li>Uses Pygame for rendering</li>
+
+**Code Quality**  | <ul><li>Clear function separation</li>
+
+**Performance**   | <ul><li>Optimized rendering loop with frame rate control</li><li>Minimal resource usage, suitable for low-end      systems</li></ul>
+
+**Dependencies**  | <ul><li>Python standard library</li><li>External: `pygame`, `license`</li></ul>
 
 ---
 
