@@ -46,8 +46,8 @@ Snake-project provides a solid foundation of core gameplay mechanics, including 
 
 ## Features
 
-|      | Component       | Details                                                                                     |
-| :--- | :-------------- | :------------------------------------------------------------------------------------------ |
+|      | Component       |                                                                                      |
+| :--- | :-------------- |
 **Architecture**  | <ul><li>Uses Pygame for rendering</li> |
 **Code Quality**  | <ul><li>Clear function separation</li> |
 **Performance**   | <ul><li>Optimized rendering loop with frame rate control</li><li>Minimal resource usage, suitable for low-end systems</li></ul> |
