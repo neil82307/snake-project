@@ -39,16 +39,10 @@
 
 ## Overview
 
-Snake-project is an open-source development toolkit for building classic snake games with ease. It provides a solid foundation of core gameplay mechanics, including movement, collision detection, and food placement, all managed in real-time to ensure smooth, responsive gameplay.
+Snake-project provides a solid foundation of core gameplay mechanics, including movement, collision detection, and food placement.
 
-**Why Snake-project?**
-
-This project aims to simplify the creation and customization of snake games, making it ideal for developers, educators, and hobbyists. The core features include:
-
-- �**� Real-Time Interaction:** Seamless gameplay flow with responsive user controls
--  ** Customizable Mechanics:** Flexible codebase to adapt game speed, controls, and rules
--  ** Educational Focus:** Serves as a learning resource for grid-based game development
-
+- ** Real-Time Interaction:** Smooth and responsive user controls
+  
 ---
 
 ## Features
