@@ -6,7 +6,7 @@
 
 # SNAKE-PROJECT
 
-<em>Slither your way to victory! edge</em>
+<em>Slither your way to victory!</em>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/neil82307/snake-project?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
