@@ -1,4 +1,6 @@
+import pygame
 import random
+import sys
 
 width = 480
 height = 480
