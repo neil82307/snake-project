@@ -91,33 +91,28 @@ Build snake-project from the source and install dependencies:
     ❯ cd snake-project
     ```
 
-3. **Install the dependencies:**
-
-**Using [conda](https://docs.conda.io/):**
+3. **Install pygame: **
 
 ```sh
-❯ conda env create -f conda.yml
+pip install pygame
 ```
 
 ### Usage
 
-Run the project with:
-
-**Using [conda](https://docs.conda.io/):**
+**Launch VS Code and open the snake-project folder.
+Open snake.py.
+Run the script with:
 
 ```sh
-conda activate {venv}
-python {entrypoint}
+pip install -r requirements.txt
 ```
 
 ### Testing
 
-Snake-project uses the {__test_framework__} test framework. Run the test suite with:
+Snake-project uses the pytest test framework. Run the test with:
 
-**Using [conda](https://docs.conda.io/):**
 
 ```sh
-conda activate {venv}
 pytest
 ```
 
