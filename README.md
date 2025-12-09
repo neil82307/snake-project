@@ -27,10 +27,10 @@
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [License](#license)
@@ -49,10 +49,10 @@ Snake-project provides a solid foundation of core gameplay mechanics, including 
 
 |      | Component       | Details                                                                                     |
 | :--- | :-------------- | :------------------------------------------------------------------------------------------ |
-| ⚙️  | **Architecture**  | <ul><li>Uses Pygame for rendering</li><li> |
-| 🔩 | **Code Quality**  | <ul><li>Clear function separation</li><li> |
-| ⚡️  | **Performance**   | <ul><li>Optimized rendering loop with frame rate control</li><li>Minimal resource usage, suitable for low-end systems</li></ul> |
-| 📦 | **Dependencies**  | <ul><li>Python standard library</li><li>External: `pygame`, `license`</li></ul> |
+**Architecture**  | <ul><li>Uses Pygame for rendering</li><li> |
+**Code Quality**  | <ul><li>Clear function separation</li><li> |
+**Performance**   | <ul><li>Optimized rendering loop with frame rate control</li><li>Minimal resource usage, suitable for low-end systems</li></ul> |
+**Dependencies**  | <ul><li>Python standard library</li><li>External: `pygame`, `license`</li></ul> |
 
 ---
 
