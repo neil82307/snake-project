@@ -51,7 +51,6 @@ class Snake:
     def score(self):
         return len(self.body) - self._initial_len
 
-
 class Food:
     def __init__(self):
         self.pos = self._random_pos()
@@ -63,7 +62,6 @@ class Food:
         ry = random.randint(0, max_y) * sqr_size * 2 + sqr_size
         return (rx, ry)
 
-
 def check_food(snake, food):
     hx, hy = snake.body[0]
     fx, fy = food.pos
@@ -73,7 +71,6 @@ def check_food(snake, food):
     thresh = sqr_size * sqr_size
     return dist2 <= thresh
 
-
 def loser(snake, food):
     head = snake.body[0]
     x, y = head
@@ -82,7 +79,6 @@ def loser(snake, food):
     if head in snake.body[1:]:
         return True
     return False
-
 
 def game_speed(snake):
     return 10 + max(0, snake.score()) * 2
