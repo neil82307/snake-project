@@ -6,14 +6,15 @@
 
 # SNAKE-PROJECT
 
-<em>Master the Art of Play and Innovation</em>
+<em>Slither your way to victory! edge</em>
 
 <!-- BADGES -->
+<img src="https://img.shields.io/github/license/neil82307/snake-project?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 <img src="https://img.shields.io/github/last-commit/neil82307/snake-project?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/neil82307/snake-project?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/neil82307/snake-project?style=flat&color=0080ff" alt="repo-language-count">
 
-<em>Built with:</em>
+<em>Built With:</em>
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
 
@@ -30,22 +31,45 @@
     - [Installation](#installation)
     - [Usage](#usage)
     - [Testing](#testing)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [License](#license)
 
 ---
 
 ## Overview
 
-snake-project is an open-source implementation of the classic snake game, crafted to demonstrate fundamental programming concepts and game development techniques. It provides a solid foundation for understanding real-time interactions, collision detection, and state management in a grid-based environment.
+Snake-project is an open-source development toolkit for building classic snake games with ease. It provides a solid foundation of core gameplay mechanics, including movement, collision detection, and food placement, all managed in real-time to ensure smooth, responsive gameplay.
 
-**Why snake-project?**
+**Why Snake-project?**
 
-This project aims to serve as an educational resource for developers interested in game development and interactive applications. The core features include:
+This project aims to simplify the creation and customization of snake games, making it ideal for developers, educators, and hobbyists. The core features include:
 
-- 🟢 **🚀 Core Mechanics:** Implements snake movement, growth, collision detection, and food placement to create a seamless gameplay experience.
-- 🟡 **🎮 User Interaction:** Handles real-time user input for smooth control and responsive gameplay.
-- 🔵 **🕹️ State Management:** Manages game state, including snake position and game-over conditions, supporting dynamic updates.
-- 🟠 **📚 Educational Focus:** Acts as a foundational example for learning game development fundamentals.
-- ⚙️ **🔒 Open-Source Licensing:** Ensures legal clarity and encourages collaborative improvements.
+- �**� Real-Time Interaction:** Seamless gameplay flow with responsive user controls
+-  ** Customizable Mechanics:** Flexible codebase to adapt game speed, controls, and rules
+-  ** Educational Focus:** Serves as a learning resource for grid-based game development
+
+---
+
+## Features
+
+|      | Component       | Details                                                                                     |
+| :--- | :-------------- | :------------------------------------------------------------------------------------------ |
+| ⚙️  | **Architecture**  | <ul><li>Uses Pygame for rendering</li><li> |
+| 🔩 | **Code Quality**  | <ul><li>Clear function separation</li><li> |
+| ⚡️  | **Performance**   | <ul><li>Optimized rendering loop with frame rate control</li><li>Minimal resource usage, suitable for low-end systems</li></ul> |
+| 📦 | **Dependencies**  | <ul><li>Python standard library</li><li>External: `pygame`, `license`</li></ul> |
+
+---
+
+## Project Structure
+
+```sh
+└── snake-project/
+    ├── LICENSE
+    ├── README.md
+    └── snake.py
+```
 
 ---
 
@@ -56,7 +80,6 @@ This project aims to serve as an educational resource for developers interested 
 This project requires the following dependencies:
 
 - **Programming Language:** Python
-- **Package Manager:** Conda
 
 ### Installation
 
@@ -106,6 +129,13 @@ pytest
 
 ---
 
+## License
+
+Snake-project is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+
+---
+
 <div align="left"><a href="#top">⬆ Return</a></div>
 
 ---
+
