@@ -3,7 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-
 # SNAKE-PROJECT
 
 <em>Slither your way to victory!</em>
